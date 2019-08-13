@@ -1,7 +1,6 @@
 # Whatsapp bot
 
->Bot de envio de mensagens automaticas para o aplicativo Whatsapp
->Escrito em JavaScript juntamente com o framework electron
+>Bot de envio de mensagens automaticas para o aplicativo Whatsapp, escrito em js e utilizando a plataforma de aplicação NODE.js juntamente com o framework electron
 
 ## Instalando dependecias node.js
 
