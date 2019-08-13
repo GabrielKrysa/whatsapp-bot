@@ -1,19 +1,14 @@
 # Whatsapp bot
 
-This is an Electron app containing Whatsapp web and is using React methods to do an echo. This is very simple but useful to start developing our Whatsapp chatbot
+>Bot de envio de mensagens automaticas para o aplicativo Whatsapp
+>Escrito em JavaScript juntamente com o framework electron
 
-## Getting started
+## Instalando dependecias node.js
 
 > npm install
 
-## Run app
+## Rodando a aplicação
 
 > npm start
 
-## Disclaimer
-
-Do not use this code to send spam. **Remember:** Users could report you and you will be banned.
-
-## License
-
-[CC0 1.0 (Public Domain)](LICENSE.md)
+ 
