@@ -18,8 +18,8 @@ function createWindow() {
         }
     })
 
-    let number = '554299524440'
-    let msg = 'blablabla'
+    let number = ''
+    let msg = ''
 
     mainWindow.loadURL('https://web.whatsapp.com/send?phone=' + number + '&text=' + msg);
 
